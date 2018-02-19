@@ -7,7 +7,7 @@ public class SimonGame {
     private Game game;
 
     private SimonGame() {
-        System.out.println("Sammie is awesome");
+        System.out.println("Sammie is going to Champlain College.");
         game = new Game();
         System.out.println(game);
     }
