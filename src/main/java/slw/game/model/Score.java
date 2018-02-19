@@ -1,7 +1,7 @@
 package slw.game.model;
 
 public class Score {
-    int count = 0;
+    private int count = 0;
 
 
     @Override
